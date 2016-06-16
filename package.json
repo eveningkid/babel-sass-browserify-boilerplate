@@ -6,10 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "temporary empty!"
-  },
+  "repository": "eveningkid/babel-sass-browserify-boilerplate",
   "keywords": [
     "babel",
     "sass",
